@@ -2,7 +2,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=checha-afg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=es&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=checha-afg&locale=es&mode=weekly&theme=nord&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=checha-afg&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true" height="150" alt="languages graph"  />
@@ -12,7 +12,7 @@
 
 ###
 
-<img align="left" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJ0bTMzM3hkNnMwM3lneHBpd3N4cHV3MjlpemkxdGhqZGp6N3J0ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MziKDo6gO7x8A/giphy.gif"  />
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJ0bTMzM3hkNnMwM3lneHBpd3N4cHV3MjlpemkxdGhqZGp6N3J0ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MziKDo6gO7x8A/giphy.gif"  />
 
 ###
 
@@ -46,9 +46,11 @@
 
 ###
 
-<div align="right">
+<br clear="both">
+
+<div align="center">
   <a href="https://open.spotify.com/user/ucmz1xin6o4aurl7m8nfaeq0c">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ucmz1xin6o4aurl7m8nfaeq0c&count=1&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ucmz1xin6o4aurl7m8nfaeq0c&count=10&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
