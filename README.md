@@ -42,10 +42,6 @@
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=checha-afg.checha-afg&left_text=Visitantes"  />
-
-###
-
 <br clear="both">
 
 <div align="center">
